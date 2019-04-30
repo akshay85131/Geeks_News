@@ -1,2 +1,4 @@
 # Geeks_News
-Hacker News clone using Js
+
+# Hacker News Clone with JavaScript
+
